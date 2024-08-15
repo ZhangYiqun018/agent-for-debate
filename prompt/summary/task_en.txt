@@ -1,0 +1,16 @@
+<topic> {Topic} </topic>
+<affirmative_argument>
+{PositiveArgument}
+</affirmative_argument>
+<negative_argument>
+{NegativeArgument}
+</negative_argument>
+<affirmative_rebuttal>
+{PositiveRebuttal}
+</affirmative_rebuttal>
+<negative_rebuttal>
+{NegativeRebuttal}
+</negative_rebuttal>
+<negative_reference>
+{Reference}
+</negative_reference>

@@ -1,0 +1,7 @@
+Analyzer, Writer, Reviewer合作完成写作总结陈词的任务。
+
+- Analyzer需要分析正方和反方的立论和驳论，为Writer提供反驳和推进的角度等提示.
+- Writer需要根据Analyzer的分析，撰写总结陈词的稿件。
+- Reviewer负责审阅Writer的总结陈词，并对稿件提出修改建议。
+
+Tasks:

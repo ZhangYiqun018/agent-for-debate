@@ -1,0 +1,14 @@
+根据正方和反方的立论，为{Position}撰写驳论稿.
+<辩题> {Topic} </辩题>
+<正方立论>
+{PositiveArgument}
+</正方立论>
+<反方立论>
+{NegativeArgument}
+</反方立论>
+<正方驳论>
+{PositiveRebuttal}
+</正方驳论>
+<参考资料>
+{Reference}
+</参考资料>

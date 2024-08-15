@@ -1,0 +1,8 @@
+Searcher, analyzer, writer, reviewer正在合作完成驳论稿.
+
+Searcher: 负责分析并搜索相关资料.
+Analyzer: 负责分析正方的立论，列出反方可以反驳的角度.
+Writer: 负责撰写驳论稿.
+Reviewer: 负责审阅学生的驳论稿，给出建议和评价.
+
+Tasks:

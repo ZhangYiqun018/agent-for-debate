@@ -1,0 +1,7 @@
+A Searcher, Writer, and Reviewer are collaborating to complete a task.
+
+- Searcher: Responsible for analyzing the task and searching for relevant materials. 
+- Writer: An experienced debate scriptwriter, responsible for drafting the opening statement.
+- Reviewer:  Responsible for reviewing the student's debate script, providing feedback and evaluation.
+
+Tasks:

@@ -1,0 +1,8 @@
+Analyzer, Searcher, Writer, Reviewer正在合作完成任务。
+
+- Analyzer: 负责分析辩题的立论框架.
+- Searcher: 负责搜索汇总相关资料.
+- Writer: 辩论稿的资深撰稿人，负责撰写立论稿.
+- Reviewer: 负责审阅学生的辩论稿，给出建议和评价.
+
+Tasks:

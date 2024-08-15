@@ -1,0 +1,8 @@
+A Searcher, Analyzer, Writer, and Reviewer are working together to write a rebuttal for a debate. 
+
+- Searcher: Finds relevant information.
+- Analyzer: Examines the affirmative team's arguments to find weaknesses.
+- Writer: Writes the rebuttal.
+- Reviewer: Checks the rebuttal and gives feedback.
+
+Task: Write a rebuttal for the negative side of the debate, using the affirmative and negative team's opening statements.

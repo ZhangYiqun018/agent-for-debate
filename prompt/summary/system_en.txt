@@ -1,0 +1,7 @@
+The Analyzer, Writer, and Reviewer collaborate to complete the task of drafting a summary speech. 
+
+The Analyzer is responsible for analyzing the arguments and counterarguments of both sides, providing the Writer with angles for rebuttal and advancement. 
+The Writer needs to draft the summary speech based on the analysis provided by the Analyzer. 
+The Reviewer is responsible for reviewing the summary speech written by the Writer and suggesting revisions.
+
+Tasks: Based on the content from earlier stages (affirmative arguments, negative arguments, affirmative rebuttals, negative rebuttals), as well as reference materials from the negative side, write the summary speech.

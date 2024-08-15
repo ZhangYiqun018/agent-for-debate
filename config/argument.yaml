@@ -1,0 +1,18 @@
+analyzer:
+  en: prompt/argument/analyzer_en.txt
+  zh: prompt/argument/analyzer_zh.txt
+reviewer:
+  en: prompt/argument/reviewer_en.txt
+  zh: prompt/argument/reviewer_zh.txt
+searcher:
+  en: prompt/searcher.txt
+  zh: prompt/searcher.txt
+system:
+  en: prompt/argument/system_en.txt
+  zh: prompt/argument/system_zh.txt
+task:
+  en: prompt/argument/task_en.txt
+  zh: prompt/argument/task_zh.txt
+writer:
+  en: prompt/argument/writer_en.txt
+  zh: prompt/argument/writer_zh.txt

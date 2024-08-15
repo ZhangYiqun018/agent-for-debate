@@ -1,0 +1,20 @@
+根据前面环节的内容，参考资料，为{Position}撰写总结陈词。
+<辩题> {Topic} </辩题>
+<正方立论>
+{PositiveArgument}
+</正方立论>
+<反方立论>
+{NegativeArgument}
+</反方立论>
+<正方驳论>
+{PositiveRebuttal}
+</正方驳论>
+<反方驳论>
+{NegativeRebuttal}
+</反方驳论>
+<反方总结>
+{NegativeSummary}
+</反方总结>
+<参考资料>
+{Reference}
+</参考资料>

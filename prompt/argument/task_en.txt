@@ -1,0 +1,1 @@
+Write a debate scripts, topic: {topic}, your side: {position}.

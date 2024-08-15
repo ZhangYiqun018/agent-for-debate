@@ -1,0 +1,21 @@
+analyzer:
+  en: prompt/summary/analyzer_en.txt
+  zh_pos: prompt/summary/analyzer_zh_pos.txt
+  zh_neg: prompt/summary/analyzer_zh_neg.txt
+reviewer:
+  en: prompt/summary/reviewer_en.txt
+  zh_pos: prompt/summary/reviewer_zh_pos.txt
+  zh_neg: prompt/summary/reviewer_zh_neg.txt
+searcher:
+  en: prompt/searcher_en.txt
+  zh: prompt/searcher_zh.txt
+system:
+  en: prompt/summary/system_en.txt
+  zh: prompt/summary/system_zh.txt
+task:
+  en: prompt/summary/task_en.txt
+  zh: prompt/summary/task_zh.txt
+writer:
+  en: prompt/summary/writer_en.txt
+  zh_pos: prompt/summary/writer_zh_pos.txt
+  zh_neg: prompt/summary/writer_zh_neg.txt
