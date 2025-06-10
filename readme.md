@@ -41,9 +41,9 @@ We collect records of 200 debate matches, covering 66 debate motions across thre
 | Gemini-1.5-Flash    | 1012.45 | 1136.21 | 1156.50 | 1057.73 |
 | GLM-4-Air           | 1011.72 | 1155.07 | 1148.53 | 1048.42 |
 | Deepseek-chat       | 1004.00 | 1118.98 | 1131.16 | 1054.89 |
-| Claude-3.5-sonnet*  | 982.07  | 479.50  | 956.21  | 1021.44 |
+| Claude-3.5-sonnet (Baseline)  | 982.07  | 479.50  | 956.21  | 1021.44 |
 | Human               | 978.35  | 1109.73 | 515.57  | 953.05  |
-| Deepseek-Chat*      | 954.34  | 491.13  | 478.78  | 983.99  |
+| Deepseek-Chat (Baseline)      | 954.34  | 491.13  | 478.78  | 983.99  |
 
 <em>Table 3: Debatrix-Elo Ranking.</em>
 
@@ -57,10 +57,10 @@ We collect records of 200 debate matches, covering 66 debate motions across thre
 | Human               | 1006.46 | 1055.82 | 1030.32 | 1006.57 |
 | Gemini-1.5-Flash    | 1000.00 | 1037.45 | 997.66  | 1003.29 |
 | Qwen2-72b-Instruct  | 999.70  | 1041.10 | 976.16  | 1005.56 |
-| Claude-3.5-sonnet*  | 991.38  | 1023.29 | 968.34  | 997.47  |
+| Claude-3.5-sonnet (Baseline)  | 991.38  | 1023.29 | 968.34  | 997.47  |
 | GLM-4-Air           | 972.48  | 940.00  | 948.31  | 996.67  |
 | Deepseek-chat       | 971.94  | 963.05  | 946.30  | 986.79  |
-| Deepseek-Chat*      | 962.61  | 786.44  | 911.33  | 979.29  |
+| Deepseek-Chat (Baseline)      | 962.61  | 786.44  | 911.33  | 979.29  |
 
 <em>
 Table 4: Human-Elo Ranking.
@@ -85,6 +85,13 @@ Table 4: Human-Elo Ranking.
     <font face="Times New Roman", colo=grey> <em>Figure 4. Case study of the debate motion "Justice is nothing but interest. (Pro side) / Justice is nothing more than interest (Con side)". Pro side is Agent4Debate (GPT-4o), Con side is Agent4Debate (Claude-3.5-sonnet). </em>
 </p>
 
+<p align="center">
+<img src="figures/case study/case_study_policy.png" width=550>
+</p>
+<p align="center">
+    <font face="Times New Roman", colo=grey> <em>Figure 5. Case study of the debate motion "Developed countries should (Pro side) / Developed countries should not (Con side) impose a fat tax". Pro side is Agent4Debate (Gemini-1.5-Pro), Con side is Agent4Debate (Claude-3.5-sonnet). </em>
+</p>
+        
 ## Related Work
 [AIDebater 2024](http://www.fudan-disc.com/sharedtask/AIDebater24/index.html)
 
