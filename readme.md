@@ -2,6 +2,7 @@
 
 ## Update
 
+- **2026-01-18**: This paper is accepted by ICASSP 2026!
 - **2024-10-30**: Opensource our code.
 - **2024-08-09**: Ongoing work, coming soon.
 
